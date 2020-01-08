@@ -221,7 +221,7 @@ def main():
                 print("Not an appropriate choice.")
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
-            print("Good Bye")
+            print("Good bye dear user. Take care of yourself !!!")
             break
 
 

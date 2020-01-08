@@ -194,7 +194,7 @@ def user_stats(df):
 
 
 def main():
-    print("Welcome !!!")
+    print("Welcome to this awesome project !!!")
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
